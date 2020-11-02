@@ -9,7 +9,7 @@ Detection of face mask using computer vision and machine learning algorithm.
 
 ### Preferred source for collection of DataSet are:
     Faces with Mask
-        Kaggle Medical Mask Dataset Download Link
+        Kaggle Medical Mask Dataset - <a href =  "https://www.kaggle.com/ivandanilovich/medical-masks-dataset-images-tfrecords">Click here</a></br>
         MAFA - MAsked FAces Download Link
 
 ### Get in touch
