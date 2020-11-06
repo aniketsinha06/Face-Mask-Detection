@@ -18,7 +18,7 @@ Detection of face mask using computer vision and machine learning algorithm.
 Kaggle Medical Mask Dataset - <a href =  "https://www.kaggle.com/ivandanilovich/medical-masks-dataset-images-tfrecords">Click here</a></br>
 MAFA Masked Faces Dataset - <a href =  "https://drive.google.com/drive/folders/1nbtM1n0--iZ3VVbNGhocxbnBGhMau_OG">Click here</a></br>
 FDDB Dataset - <a href =  "http://vis-www.cs.umass.edu/fddb/">Click here</a></br>
-
+WiderFace Dataset  - <a href =  "http://shuoyang1213.me/WIDERFACE/">Click here</a></br>
 
 
 
